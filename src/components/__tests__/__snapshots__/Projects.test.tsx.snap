@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Projects should render 1`] = `
+<DocumentFragment>
+  <h2>
+    Check our Projects!
+  </h2>
+  <img
+    alt="Games alphabet"
+    class="img__about"
+    src="games.jpg"
+  />
+  <ul>
+    <li>
+      Game Witcher with score: 99!
+    </li>
+    <li>
+      Game Mortal Combat with score: 70!
+    </li>
+    <li>
+      Game Fifa 2022 with score: 1!
+    </li>
+    <li>
+      Game Assetto Corsa with score: 87!
+    </li>
+  </ul>
+</DocumentFragment>
+`;
