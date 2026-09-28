@@ -61,3 +61,7 @@ This React application, developed by Bartosz Kulpa, demonstrates a multi-page we
 
 - This application is a demonstration of creating a multi-page React application with routing and unit testing.
 - It showcases the use of React Router for navigation between pages and React Testing Library for writing unit tests.
+
+## Status
+
+This project is currently under active development. Additional features, tests and UI improvements are planned.
